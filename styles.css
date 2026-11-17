@@ -12,7 +12,7 @@ div {
   height: 200px;
   background-color: red;
   animation-name: myAnimation;
-  animation-duration: 4s;
+  animation-duration: 20s;
 }
 @keyframes myAnimation {
   from {background-color: red;}
