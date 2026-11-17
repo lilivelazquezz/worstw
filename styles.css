@@ -6,3 +6,11 @@
            height: 40px;}
 p { background-color: dark gray;
  color: white; }
+
+div {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  animation-name: myAnimation;
+  animation-duration: 4s;
+}
